@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## microcoder.py
 
-You can use the [editor on GitHub](https://github.com/microcoder-py/microcoder-py.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, TensorFlow, and I also develop some Flutter Apps when I find the time. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work with
+
+1. Languages
+  *Python
+  *Dart
+2. Libraries/SDK
+  *Tensorflow
+  *Tensorflow Extended
+  *FastAPI
+  *Uvicorn
+  *Flutter
+3. Areas
+  *NLP
+  *Deep Learning
+  *Full Stack Development
 
 ### Markdown
 
