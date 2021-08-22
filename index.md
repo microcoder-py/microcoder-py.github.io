@@ -6,7 +6,7 @@ Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, Te
 ```python
 >> python3 blog.py clickBelow=True
 ```
-[BLOG](https://microcoder-py.github.io/blog)
+# [Blog](https://microcoder-py.github.io/blog)
 
 I work with
 
