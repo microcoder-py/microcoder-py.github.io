@@ -10,16 +10,18 @@ Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, Te
 
 I work with
 
-### Languages
+## Languages
   * Python
   * Dart
-### Libraries/SDK
+  
+## Libraries/SDK
   * Tensorflow
   * Tensorflow Extended
   * FastAPI
   * Uvicorn
   * Flutter
-### Areas
+  
+## Areas
   * NLP
   * Deep Learning
   * Full Stack Development
