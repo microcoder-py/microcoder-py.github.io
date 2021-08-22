@@ -3,7 +3,10 @@
 
 Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, TensorFlow, and I also develop some Flutter Apps when I find the time. 
 
-# [BLOG](https://microcoder-py.github.io/blog)
+```python
+>> python3 blog.py clickBelow=True
+```
+[BLOG](https://microcoder-py.github.io/blog)
 
 I work with
 
