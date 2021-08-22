@@ -1,19 +1,20 @@
 ## microcoder.py
-![Image](github_logo.png)
+### [GitHub](https://github.com/microcoder-py) | [LinkedIn](https://www.linkedin.com/in/tanishk-kithannae/)
+
 Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, TensorFlow, and I also develop some Flutter Apps when I find the time. 
 
 I work with
 
-* Languages
+### Languages
   * Python
   * Dart
-* Libraries/SDK
+### Libraries/SDK
   * Tensorflow
   * Tensorflow Extended
   * FastAPI
   * Uvicorn
   * Flutter
-* Areas
+### Areas
   * NLP
   * Deep Learning
   * Full Stack Development
