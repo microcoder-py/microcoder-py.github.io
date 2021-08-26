@@ -1,5 +1,7 @@
 # Attention Is All You Need (2017) Explained
 
+*Aug, 2021*
+
 ```citation
 @misc{vaswani2017attention,
       title={Attention Is All You Need}, 
