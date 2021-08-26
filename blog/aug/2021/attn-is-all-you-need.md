@@ -192,3 +192,11 @@ This mask, is referred to as the *Lookahead Mask* since it disallows looking int
 ### Teacher Forcing
 
 Why should RNNs have all the fun? Teacher forcing is also possible with Transformer networks. We simply pass the known output sequence as the decoder input, and get it to predict the entire sentence instead of doing it one token at a time. A good example for this would be the official [TensorFlow tutorial on Transformers](https://www.tensorflow.org/text/tutorials/transformer), where during training they have used teacher forcing but during evaluation, the loop is similar to what you would expect if you had to train it the routine way.
+
+## Important Mentions
+
+Transformers have fundamentally changed the way NLP works, with many major organisations creating their own models that utlize this sophisticated architecture. I will be name a few of the prominent ones but this isn't by far a complete list
+
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+* [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+* [HuggingFace](https://huggingface.co/transformers/)
