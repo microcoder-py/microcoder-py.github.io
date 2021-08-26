@@ -27,7 +27,7 @@ A new architecture itself was needed that could resolve the above problems.
 
 What do you do when you need to build a new architecture, that solves the above problems? Well, as researchers at Google and University of Toronto found in their era-defining paper, [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (2017), what you need is a model that
 
-* Has massive capacity, but with only sequential operations. No, seriously. Massive.
+* Has massive capacity, but with only easily distributable operations. No, seriously. Massive.
 * Makes use of attention each time, every time, over multiple processing heads.
 * Looks simple at first glance, but every time you read the paper again reveals how nuanced and intricate the design is
 
