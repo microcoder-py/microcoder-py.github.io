@@ -12,8 +12,9 @@ In the case of images as well, assuming we have a single channel (black and whit
 
 However, can you tell me the distance between the following statements? 
 
+| Sentence 1 | Sentence 2 | 
+|---|---| 
 | This is a sentence | This is also a sentence | 
-|-|-| 
 
 Despite the statements being rather similar, as I am sure you can tell from your several years of experience with language, how do you inform a computer how similar or dissimilar they are? What representation would make a computer understand what the sentences are?
 
@@ -23,8 +24,9 @@ To create a sense of distance, or similarity, we need to convert these sentences
 
 Let’s consider the above sentences. If we were to consider all the unique words in the above (*in NLP terminology referred to as tokens*), we would have the following
 
+| Token | Token  |Token |Token | Token  |
+|:---:|:---:|:---:|:---:| :---:|
 | This  | is |a|sentence| also |
-|---|---|---|---| ---|
 
 If we were to assign a single value to each token on the number line, let’s say as below
 
@@ -44,9 +46,9 @@ In this example, we have only considered word embeddings of unit dimension, i.e.
 
 So instead of projecting the tokens to a unit dimension, we project them onto a vector space of several dimensions, typically between 150 - 300 (based on empirical observations). What this means is that every word is represented as a vector of numbers. If the token ```this``` were to be represented as a vector of four dimensions, an example representation would be
 
+| token   | embedding| 
+|:---:|:---:| 
 | this              | [0.1221, -4.563, 0.009, 3.789] | 
-|-------------------------------------|---------------------------| 
-
 This might seem a little like trickery, and in a sense, it is, but here are some salient features about word embeddings, which will hopefully help you like them better.
 
 ### No need to model language, the embeddings will help represent it
