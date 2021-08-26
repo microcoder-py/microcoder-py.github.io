@@ -13,7 +13,7 @@
 }
 ```
 
-## What is the hullabaloo with Transformers anyway?
+## Why does everyone want Transformers all of a sudden?
 
 One of the core concerns surrounding the typically used RNN models in NLP is the inability of the model to be parallelised. The architecture, by virtue of being sequential, are harder to train with distributed systems, particularly when working with long sequences or stateful RNNs, thereby not allowing us to make the full use of heavily distributed computational machinery that we have access to. 
 
