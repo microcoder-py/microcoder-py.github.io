@@ -1,3 +1,16 @@
+# Attention Is All You Need, 2017
+
+```citation
+@misc{vaswani2017attention,
+      title={Attention Is All You Need}, 
+      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+      year={2017},
+      eprint={1706.03762},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## What is the hullabaloo with Transformers anyway?
 
 One of the core concerns surrounding the typically used RNN models in NLP is the inability of the model to be parallelised. The architecture, by virtue of being sequential, cannot be distributed across multiple systems, thereby not allowing us to make the full use of heavily distributed computational machinery that we have access to. 
