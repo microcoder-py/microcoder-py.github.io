@@ -13,7 +13,7 @@ In the case of images as well, assuming we have a single channel (black and whit
 However, can you tell me the distance between the following statements? 
 
 | This is a sentence | This is also a sentence | 
-|:---:|:---:| 
+|-|-| 
 
 Despite the statements being rather similar, as I am sure you can tell from your several years of experience with language, how do you inform a computer how similar or dissimilar they are? What representation would make a computer understand what the sentences are?
 
