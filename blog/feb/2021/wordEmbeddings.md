@@ -39,7 +39,7 @@ It wouldn’t make much sense. We still do not have any real relationship betwee
 
 Okay, so this clearly isn’t working. What we need to do is capture the relationship between the tokens, not just assign them random numbers and hope for the best. So how do we understand what relationship individual words have with each other? We turn to our good old friend, the neural network.
 
-> *Please note that I will not be discussing specific techniques for word embedding such as Word2Vec or GloVe, I am only explaining the intuition behind word embeddings. You may read about different types of word embeddings online.* 
+> *Please note that I will not be discussing specific techniques for word embedding such as [Word2Vec](https://arxiv.org/abs/1301.3781) or [GloVe](https://nlp.stanford.edu/pubs/glove.pdf), I am only explaining the intuition behind word embeddings. You may read about different types of word embeddings online.* 
 
 Our neural network in this case will assign some random numbers to each token. During the training process, it will somehow learn how to assign the right number on the number line to each token, continuously readjusting the values with every batch iteration until the representations somehow are able to optimise the target loss function. Now, the numbers being used represent a true relationship of relative distance between each other. Note that I have used the term ‘relative’, we will get back to this later. 
 
