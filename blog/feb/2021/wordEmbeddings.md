@@ -53,7 +53,7 @@ So instead of projecting the tokens to a unit dimension, we project them onto a 
 
 This might seem a little like trickery, and in a sense, it is, but here are some salient features about word embeddings, which will hopefully help you like them better.
 
-### No need to model language, the embeddings will help represent it
+### No need to model language grammar rules, the embeddings will help represent it
 
 Once you have trained a network and obtained the embeddings, you do not need to inform the network what specific grammatical rules it must follow. Assuming that the dataset was large enough to capture almost all scenarios of grammatical possibility, and that the model itself was conditioned well, we can assume that the word embeddings are able to capture the essence of the grammatical rules of the input language. 
 
