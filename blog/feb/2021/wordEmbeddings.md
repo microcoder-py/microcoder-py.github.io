@@ -1,4 +1,5 @@
 # Word Embeddings: The Magic That They Are, and Why GANs Can't Process Them
+*Feb, 2021*
 
 NLP is an astonishing field of research. Human language, as taught to us in schools, in college, even in theory of computational grammar, isn’t one that can simply be replicated by inanimate elements - it demands a sense of creativity, of romanticism, and yet, NLP has managed to overcome several of these challenges, rendering computational devices able to understand, generate, translate, and build new mechanisms for language modelling. 
 
@@ -49,6 +50,7 @@ So instead of projecting the tokens to a unit dimension, we project them onto a 
 | token   | embedding| 
 |:---:|:---:| 
 | this              | [0.1221, -4.563, 0.009, 3.789] | 
+
 This might seem a little like trickery, and in a sense, it is, but here are some salient features about word embeddings, which will hopefully help you like them better.
 
 ### No need to model language, the embeddings will help represent it
