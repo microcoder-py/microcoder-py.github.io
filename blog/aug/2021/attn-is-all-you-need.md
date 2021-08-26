@@ -167,7 +167,7 @@ Positional Encoding basically entails adding an increasing sequence of values, t
 For the case of the transformer, the positional encoding is provided by
 ![posEncoding](https://user-images.githubusercontent.com/71311548/130972087-f2f04c2e-67d2-4c44-a3eb-f34231b68ecc.PNG)
 
-*Positional Encoding Formula for Timestep i, Image Source: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+*Positional Encoding Formula for Timestep i, Image Source: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)*
 
 As the authors of the paper have quoted,
 
