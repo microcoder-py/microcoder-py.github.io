@@ -122,7 +122,7 @@ Yes, I am well aware this looks like a long formula, so instead of looking at th
 
 > *We suspect that for large values of dk, the dot products grow large in magnitude, pushing the softmax function into regions where it has extremely small gradients To counteract this effect, we scale the dot products by square root of dk*
 
-- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+*Quoted From* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
 Having calculated the values from individual heads, the values are concatenated and passed through a linear layer to return the same dimensions as the input had. 
 
@@ -173,7 +173,10 @@ As the authors of the paper have quoted,
 
 > * We chose this function because we hypothesized it would allow the model to easily learn to attend by relative positions, since for any fixed offset k, PEpos+k can be represented as a linear function of  PEpos*
 
+*Quoted From* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
 Coming back to the reason for the residual skip connections, it is done to ensure some amount of this positional encoding continues to flow through the network and isn't lost 
+
 ### Masking
 
 Another issue with the inputs of the transformers is that when applying attention, you do not want to be applying attention to tokens that do not in fact exist, or are yet to be calculated. 
