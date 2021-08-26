@@ -171,7 +171,7 @@ For the case of the transformer, the positional encoding is provided by
 
 As the authors of the paper have quoted,
 
-> * We chose this function because we hypothesized it would allow the model to easily learn to attend by relative positions, since for any fixed offset k, PEpos+k can be represented as a linear function of  PEpos*
+> *We chose this function because we hypothesized it would allow the model to easily learn to attend by relative positions, since for any fixed offset k, PEpos+k can be represented as a linear function of  PEpos*
 
 *Quoted From* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
