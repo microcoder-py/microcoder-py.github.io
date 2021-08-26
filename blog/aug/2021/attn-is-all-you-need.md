@@ -197,7 +197,7 @@ Why should RNNs have all the fun? Teacher forcing is also possible with Transfor
 
 ## Important Mentions
 
-Transformers have fundamentally changed the way NLP works, with many major organisations creating their own models that utlize this sophisticated architecture. I will be name a few of the prominent ones but this isn't by far a complete list
+Transformers have fundamentally changed the way NLP works, with many major organisations creating their own models that utlize this sophisticated architecture. I will be naming a few of the prominent ones but this isn't by far a complete list
 
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
