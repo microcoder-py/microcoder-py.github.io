@@ -3,7 +3,7 @@
 ```python
 >> python3 learnMore.py clickBelow=True
 ```
-## [GitHub](https://github.com/microcoder-py) | [LinkedIn](https://www.linkedin.com/in/tanishk-kithannae/) | [Blog](https://microcoder-py.github.io/blog)
+## [GitHub](https://github.com/microcoder-py) | [GitHub Repos](https://github.com/microcoder-py?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/tanishk-kithannae/) | [Blog](https://microcoder-py.github.io/blog)
 
 Hi There! I write code, and enjoy studying ML mostly around the areas of NLP, TensorFlow, and I also develop some Flutter Apps when I find the time.  
 
